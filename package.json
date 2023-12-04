@@ -2,7 +2,7 @@
   "name": "clean_code",
   "version": "1.0.0",
   "description": "",
-  "main": "sum.js",
+  "main": "project/sum.js",
   "directories": {
     "test": "test"
   },
