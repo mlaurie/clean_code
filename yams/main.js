@@ -1,10 +1,9 @@
 const countOccurences = require('../yams/countOccurences');
 
-const BONUS_BRELAN = 28;
-const BONUS_CARRE = 35;
-const BONUS_FULL = 30;
-const BONUS_GRANDE_SUITE = 40;
-const BONUS_YAMS = 50;
+const CARRE_BONUS = 35;
+const FULL_BONUS = 30;
+const GRANDE_SUITE_BONUS = 40;
+const YAMS_BONUS = 50;
 
 function calculatePoints(diceRolls) {
     //TODO : implement
