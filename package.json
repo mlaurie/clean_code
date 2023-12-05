@@ -2,7 +2,7 @@
   "name": "clean_code",
   "version": "1.0.0",
   "description": "",
-  "main": "project/sum.js",
+  "main": "yams/main.js",
   "directories": {
     "test": "test"
   },
